@@ -2,4 +2,4 @@ const init = () => {
   console.log("Hello World!!")
 }
 
-init();
+export default init;
